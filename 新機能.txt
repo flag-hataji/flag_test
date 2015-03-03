@@ -7,3 +7,5 @@ hoogehogehoge
 あ
 えええ
 え
+
+新機能開発完了
