@@ -1,0 +1,9 @@
+git merge --squash test
+
+
+hoogehogehoge
+
+‚ ‚ ‚ 
+‚ 
+‚¦‚¦‚¦
+‚¦
