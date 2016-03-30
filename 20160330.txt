@@ -1,0 +1,11 @@
+git merge --squash test
+
+
+hoogehogehoge
+
+あああ
+あ
+えええ
+え
+
+新機能開発完了
